@@ -115,10 +115,6 @@ npm start
 
 ![Login](./screenshots/login.png)
 
-### 🛒 Cart Page
-
-![Cart](./screenshots/cart.png)
-
 ---
 
 ## 📌 Future Improvements
