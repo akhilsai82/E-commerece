@@ -109,7 +109,7 @@ npm start
 
 ### 🏠 Home Page
 
-![Home](./screenshots/home.png)
+![Home](screenshoots/home.png)
 
 ### 🔐 Login Page
 
