@@ -113,7 +113,7 @@ npm start
 
 ### 🔐 Login Page
 
-![Login](./screenshots/login.png)
+![Login](screenshoots/login.png)
 
 ---
 
